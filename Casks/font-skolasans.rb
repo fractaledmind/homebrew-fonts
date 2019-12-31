@@ -1,6 +1,6 @@
 cask 'font-skolasans' do
   version '1.000'
-  sha256 '50fa6d2d2b5d729aedf1f23cad0bfb42a714dc5c76eed08846607929b7c390c1'
+  sha256 '52affe1fdf66ae8484bf32711f6dd2e2789b63966065e6061ca6bad9fa6e6187'
 
   # download1265.mediafire.com was verified as official when first introduced to the cask
   url 'https://download1265.mediafire.com/cmlgmdh4j6bg/5cbb1kb41ypzm3v/SkolaSansPro.zip'
