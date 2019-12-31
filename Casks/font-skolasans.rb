@@ -1,0 +1,30 @@
+cask 'font-skolasans' do
+  version '1.000'
+  sha256 '50fa6d2d2b5d729aedf1f23cad0bfb42a714dc5c76eed08846607929b7c390c1'
+
+  # download1265.mediafire.com was verified as official when first introduced to the cask
+  url 'https://download1265.mediafire.com/cmlgmdh4j6bg/5cbb1kb41ypzm3v/SkolaSansPro.zip'
+  name 'SkolaSans Pro'
+  homepage 'https://www.behance.net/gallery/17504367/Free-font-family-SkolaSans'
+
+  font 'SkolaSans Pro OTF/SkolaSans-Black.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-BlackItalic.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-Bold.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-BoldItalic.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-Light.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-LightItalic.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-Medium.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-MediumItalic.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-Regular.otf'
+  font 'SkolaSans Pro OTF/SkolaSans-RegularItalic.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-Black.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-BlackItalic.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-Bold.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-BoldItalic.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-Light.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-LightItalic.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-Medium.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-MediumItalic.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-Regular.otf'
+  font 'SkolaSansCn Pro OTF/SkolaSansCn-RegularItalic.otf'
+end
