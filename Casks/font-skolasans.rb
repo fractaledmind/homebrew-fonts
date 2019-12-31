@@ -1,5 +1,5 @@
 cask 'font-skolasans' do
-  version '1.000'
+  version :latest
   sha256 '52affe1fdf66ae8484bf32711f6dd2e2789b63966065e6061ca6bad9fa6e6187'
 
   # download1265.mediafire.com was verified as official when first introduced to the cask
